@@ -172,7 +172,7 @@ Get '/categories/<int:categorie_id>/questions'
 }
 ```
 ## Quiz Section
-POST 'quizzes'
+POST '/quizzes'
 - select specfic catagory to make quiz in it
 - request:
 ```
